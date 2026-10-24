@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Make your own soundboard
+    url: https://soundboardio.com/create/?utm_source=github&utm_medium=issue-chooser
+    about: A public GitHub repository and one soundboardio.json file is all it takes.
+  - name: Something rotten?
+    url: https://soundboardio.com/about/
+    about: Content that infringes your rights, or anything else for the SoundBoardio team.

@@ -1,0 +1,30 @@
+name: Quote suggestion
+description: A quote that is missing from this soundboard
+title: "Quote: "
+body:
+  - type: textarea
+    id: quote
+    attributes:
+      label: The quote
+      description: Word for word, as it is said in the recording.
+      placeholder: Je mu hodně!
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Where it is from
+      description: A link to the video or recording.
+      placeholder: https://www.youtube.com/watch?v=…
+    validations:
+      required: true
+  - type: input
+    id: time
+    attributes:
+      label: Time in the recording
+      placeholder: "1:23"
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else
+      description: A shorter name for the tile, a tag, context…

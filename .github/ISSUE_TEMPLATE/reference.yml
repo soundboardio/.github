@@ -1,0 +1,22 @@
+name: Reference suggestion
+description: A source, article or video that belongs under this soundboard
+title: "Reference: "
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      placeholder: Wikipedia, the original video, an interview…
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Link
+      placeholder: https://
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it belongs here
