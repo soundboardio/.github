@@ -22,4 +22,4 @@ The boards made here carry the [`soundboardio-plugin`](https://github.com/topics
 
 Missing a quote on a board? Open an issue in its repository, the form asks for what is needed.
 
-SoundBoardio is made by [AquaSoup](https://aquasoup.com). If it made you smile, [buy us a coffee](https://github.com/sponsors/bartholomej) ☕
+SoundBoardio is made by [AquaSoup](https://aquasoup.com). If it made you smile, [buy us a coffee](https://soundboardio.com/donate/?utm_source=github&utm_medium=org-profile) ☕
